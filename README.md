@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+Hi there 👋 Thanks for visiting my profile.
+My name is Raihan. I'm a professional web developer, І will create a professional website
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PHP
