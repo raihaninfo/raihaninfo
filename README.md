@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is [Raihan](https://www.facebook.com/raihan.mahmudi.50/)
-#### I am Web Developer 
 ![I am a Web Developer ](https://1.bp.blogspot.com/-iFyqthH2nvM/X_R9cnmXynI/AAAAAAAAAOM/lDUFFwi3d7Ar1EWyY7x_-OI0lX2olioTwCLcBGAsYHQ/s700/The%2BWilsons.png)
 
-Hi there 👋 Thanks for visiting my profile. My name is Raihan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
+Thanks for visiting my profile. My name is Raihan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
 > Design is my Passion, Coding is hobby
 
