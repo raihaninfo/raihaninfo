@@ -8,13 +8,24 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 
 # Skills
 
- - [ ] PHP  
- - [ ] Laravel 
- - [ ] JS 
- - [ ] HTML 
- - [ ] CSS 
- - [ ] bootstrap 
- - [ ] wordpress
+<table>
+<tr>
+	<td>PHP</td>
+	<td>Laravel</td>
+<tr>
+<tr>
+	<td>JS</td>
+	<td>HTML</td>
+<tr>
+<tr>
+	<td>CSS</td>
+	<td>SASS</td>
+<tr>
+<tr>
+	<td>bootstrap</td>
+	<td>wordpress</td>
+<tr>
+</table>
 
 
 - 🔭 I’m currently working on this page. 
