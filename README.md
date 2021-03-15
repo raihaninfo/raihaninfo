@@ -26,7 +26,7 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 	<td>wordpress</td>
 <tr>
 <tr>
-	<td>GOlANG</td>
+	<td>GOLANG</td>
 	<td></td>
 <tr>
 </table>
