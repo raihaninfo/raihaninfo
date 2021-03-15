@@ -33,7 +33,7 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 
 
 - 🔭 I’m currently working on PHP project. 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning GOLANG 
 - 💬 Ask me about HTML, CSS, PHP, javascript 
 - 📫 How to reach me: [facebook](https://www.facebook.com/raihan.mahmudi.50/), [Linkedin](https://www.linkedin.com/in/raihaninfo/), [Twitter](https://twitter.com/mdabraihan40), [Linkedin](https://www.linkedin.com/in/raihaninfo/), 
 - ⚡ Fun fact: listening to Music, and reading books  
