@@ -12,26 +12,30 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 <tr>
 	<td>PHP</td>
 	<td>Laravel</td>
-<tr>
-<tr>
 	<td>JS</td>
-	<td>HTML</td>
 <tr>
 <tr>
 	<td>CSS</td>
 	<td>SASS</td>
+	<td>HTML</td>
 <tr>
 <tr>
-	<td>bootstrap</td>
-	<td>wordpress</td>
+<td>bootstrap</td>
+<td>wordpress</td>
+<td>GOLANG</td>
 <tr>
 <tr>
-	<td>GOLANG</td>
 	<td>VS Code</td>
-<tr>
-<tr>
 	<td>GIT</td>
 	<td>Github</td>
+<tr>
+<tr>
+	
+	
+<tr>
+<tr>
+	
+	
 <tr>
 </table>
 
