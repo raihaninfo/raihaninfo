@@ -10,7 +10,7 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 
 <table>
 <tr>
-	<td style="text-align: center">PHP</td>
+	<td>PHP</td>
 	<td>Laravel</td>
 	<td>JS</td>
 <tr>
