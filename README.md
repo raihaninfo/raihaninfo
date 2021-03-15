@@ -44,9 +44,9 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 
 - ❤️ Technology Is My Love 😍
 - 😎 Programming Is My Passion 🙃
-- 🔭 I’m currently working on PHP project. 
 - ⚔  Keyboard Is MY Weapon 😏
 - 🥰 Perfection Is My Habit 🌍
+- 🔭 I’m currently working on PHP project. 
 - 🌱 I’m currently learning GOLANG 
 - 💬 Ask me about HTML, CSS, PHP, javascript 
 - 📫 How to reach me: [facebook](https://www.facebook.com/raihan.mahmudi.50/), [Linkedin](https://www.linkedin.com/in/raihaninfo/), [Twitter](https://twitter.com/mdabraihan40), [Linkedin](https://www.linkedin.com/in/raihaninfo/), 
