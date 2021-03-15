@@ -6,7 +6,7 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 > Design is my Passion, Coding is hobby
 
 
-# Skills
+# Languages and Tools:
 
 <table>
 <tr>
@@ -27,7 +27,7 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 <tr>
 <tr>
 	<td>GOLANG</td>
-	<td></td>
+	<td>VS Code</td>
 <tr>
 </table>
 
