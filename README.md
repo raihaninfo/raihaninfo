@@ -42,9 +42,9 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 </table>
 
 
-- 🔭 I’m currently working on PHP project. 
 - ❤️ Technology Is My Love 😍
 - 😎 Programming Is My Passion 🙃
+- 🔭 I’m currently working on PHP project. 
 - ⚔  Keyboard Is MY Weapon 😏
 - 🥰 Perfection Is My Habit 🌍
 - 🌱 I’m currently learning GOLANG 
