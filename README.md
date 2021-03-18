@@ -57,6 +57,14 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihaninfo)](https://github.com/raihaninfo)
 
+
+
+
+![Github stats]([https://github-readme-stats.vercel.app/api?username=raihaninfo&theme=highcontrast&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=raihaninfo&theme=highcontrast&show_icons=true&count_private=true))
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihaninfo&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/raihaninfo) 
