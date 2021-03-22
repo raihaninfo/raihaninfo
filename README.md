@@ -69,3 +69,5 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
 ![GitHub metrics](https://metrics.lecoq.io/raihaninfo) 
 
 01853-566901
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raihaninfo)  
