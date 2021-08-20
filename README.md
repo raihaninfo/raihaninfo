@@ -3,7 +3,7 @@
 
 Thanks for visiting my profile. My name is Raihan. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
 
-> Design is my Passion, Coding is hobby.
+> Design is my Passion, Coding is hobby
 
 
 # Languages and Tools:
@@ -30,7 +30,6 @@ Thanks for visiting my profile. My name is Raihan. I'm a professional web develo
      </tr>
    </table>
 </p> 
-
 
 
 - ❤️ Technology Is My Love 😍
