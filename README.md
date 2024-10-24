@@ -18,7 +18,7 @@
 - 🌟 **Web Development Expert**: Specializing in creating beautiful, user-friendly interfaces  
 - 🎨 **Design is my passion, Coding is my hobby**  
 - 💡 I provide custom solutions to meet your business needs  
-- 💻 **Tech Stack**: HTML, CSS, JavaScript, PHP, Go (Golang), SQL, and more!
+- 💻 **Tech Stack**: HTML, CSS, JavaScript, Go (Golang), PHP, SQL, and more!
 
 ---
 
