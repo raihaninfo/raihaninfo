@@ -9,7 +9,6 @@
 <p align="center">
    <a href="https://www.raihaninfo.com/"><img src="https://img.shields.io/badge/Website-raihaninfo.com-blue?style=flat-square&logo=google-chrome&logoColor=white"/></a>
    <a href="https://github.com/raihaninfo"><img src="https://img.shields.io/github/followers/raihaninfo?label=GitHub&style=flat-square&logo=github"/></a>
-   <img src="https://gpvc.arturio.dev/raihaninfo" alt="Profile Views"/>
 </p>
 
 ---
