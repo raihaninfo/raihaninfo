@@ -11,6 +11,8 @@
    <a href="https://github.com/raihaninfo"><img src="https://img.shields.io/github/followers/raihaninfo?label=GitHub&style=flat-square&logo=github"/></a>
 </p>
 
+[![Md Abu. Raihan profile views](https://u8views.com/api/v1/github/profiles/66956067/views/day-week-month-total-count.svg)](https://u8views.com/github/raihaninfo)
+
 ---
 
 ### 🔥 About Me
